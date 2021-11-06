@@ -971,10 +971,10 @@ body {
     min-width: 155px;
     min-height: 48px;
   }
-  .learn-more .abs1--2 {
+  .learn-more__image1--2 {
     top: 0;
   }
-  .learn-more .abs2--2 {
+  .learn-more__image2--2 {
     top: 135px;
     right: 5px;
     z-index: 0;
